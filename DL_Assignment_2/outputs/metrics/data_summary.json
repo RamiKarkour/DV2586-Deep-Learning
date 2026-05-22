@@ -1,0 +1,15 @@
+{
+    "dataset": "NSL-KDD",
+    "sequence_length": 10,
+    "train_rows_original": 125973,
+    "test_rows_original": 22544,
+    "normal_training_sequences": 60600,
+    "normal_validation_sequences": 6734,
+    "tuning_sequences_mixed": 6760,
+    "final_test_sequences_mixed": 15775,
+    "tuning_anomaly_ratio": 0.5692307692307692,
+    "final_test_anomaly_ratio": 0.5692551505546751,
+    "input_dim": 122,
+    "train_missing_values": 0,
+    "test_missing_values": 0
+}
