@@ -283,6 +283,6 @@ The project has several limitations:
 
 ## Authors
 
-Mohamad Rami Karkour
-Sahel Nasrullah
-Muhammad Haseeb Muslim
+- Mohamad Rami Karkour
+- Sahel Nasrullah
+- Muhammad Haseeb Muslim
