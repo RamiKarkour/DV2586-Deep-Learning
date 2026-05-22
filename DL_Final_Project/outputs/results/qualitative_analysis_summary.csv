@@ -1,0 +1,5 @@
+analysis_type,file,count
+Correct top-1 examples,hybrid_correct_top1_examples.csv,314
+Failed top-1 examples,hybrid_failed_top1_examples.csv,73
+Hybrid improved over fine-tuned,hybrid_improved_over_finetuned_cases.csv,15
+Hybrid worse than fine-tuned,hybrid_worse_than_finetuned_cases.csv,6

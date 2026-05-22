@@ -1,0 +1,6 @@
+method,Top-1 Accuracy,Precision@1,Top-3 Accuracy,Precision@3,Top-5 Accuracy,Precision@5,Top-10 Accuracy,Precision@10,MRR
+TF-IDF + Cosine Similarity,0.576,0.576,0.682,0.561,0.713,0.549,0.78,0.548,0.646
+BM25,0.499,0.499,0.636,0.519,0.698,0.522,0.762,0.514,0.593
+Pretrained Sentence-BERT,0.615,0.615,0.757,0.597,0.791,0.59,0.819,0.572,0.693
+Fine-tuned Sentence-BERT,0.788,0.788,0.871,0.796,0.899,0.797,0.904,0.796,0.832
+Hybrid Fine-tuned SBERT + Skill Overlap,0.811,0.811,0.876,0.819,0.894,0.813,0.907,0.806,0.849

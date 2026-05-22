@@ -1,0 +1,16 @@
+resume_index,resume_category,finetuned_top1_job,finetuned_top1_categories,finetuned_top1_relevant,hybrid_top1_job,hybrid_top1_categories,hybrid_top1_relevant
+7,ENGINEERING,Engineering Intern,INFORMATION-TECHNOLOGY,False,Highway Design Engineer,ENGINEERING,True
+21,CONSTRUCTION,Assistant Project Manager (Ground Up),INFORMATION-TECHNOLOGY,False,"Estimator ll, Industrial Construction ",CONSTRUCTION,True
+71,ENGINEERING,Engineering Specialist -Semantics Expert,INFORMATION-TECHNOLOGY,False,Jr. Project Engineer,ENGINEERING,True
+81,PUBLIC-RELATIONS,Audit Senior Associate,"ACCOUNTANT, FINANCE",False,Senior Writer - Corporate Communications,PUBLIC-RELATIONS,True
+83,PUBLIC-RELATIONS,Community Manager,SALES,False,General Clerk,PUBLIC-RELATIONS,True
+92,BANKING,Executive Administrative Assistant,FINANCE,False,Teller,"FINANCE, SALES, BANKING",True
+100,PUBLIC-RELATIONS,Chief Development Officer,"BUSINESS-DEVELOPMENT, SALES",False,Volunteer Virtual Classroom Speaker (Career Day - Performing Arts ),PUBLIC-RELATIONS,True
+126,BANKING,Registered Client Service Associate,FINANCE,False,Relationship Banker - Colonia Financial Center,"FINANCE, SALES, BANKING",True
+137,ENGINEERING,Engineering Intern,INFORMATION-TECHNOLOGY,False,Highway Design Engineer,ENGINEERING,True
+161,BANKING,Executive Administrative Assistant,FINANCE,False,Investment Banking Analyst,"FINANCE, BANKING",True
+201,ENGINEERING,Engineering Co-Op / Intern,INFORMATION-TECHNOLOGY,False,"Validation Engineer I, Engineering",ENGINEERING,True
+219,ENGINEERING,Avionics Engineering Intern,INFORMATION-TECHNOLOGY,False,Solutions Engineer,ENGINEERING,True
+259,BUSINESS-DEVELOPMENT,Sr Business Operations Consultant,"INFORMATION-TECHNOLOGY, CONSULTANT",False,Verizon Sales Consultant,"BUSINESS-DEVELOPMENT, SALES, CONSULTANT",True
+260,CONSTRUCTION,Survey Crew Chief,SALES,False,Safety Manager - Construction,CONSTRUCTION,True
+367,CONSTRUCTION,Project Manager,INFORMATION-TECHNOLOGY,False,Construction Manager,CONSTRUCTION,True

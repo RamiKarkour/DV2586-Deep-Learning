@@ -1,0 +1,7 @@
+resume_index,resume_category,finetuned_top1_job,finetuned_top1_categories,finetuned_top1_relevant,hybrid_top1_job,hybrid_top1_categories,hybrid_top1_relevant
+61,HEALTHCARE,Healthcare Associate Sales Executive,"BUSINESS-DEVELOPMENT, SALES, HEALTHCARE",True,Entry Level Medical Sales,SALES,False
+104,ACCOUNTANT,Revenue Accountant,"ACCOUNTANT, FINANCE",True,Merchandising Assistant,SALES,False
+129,ADVOCATE,Patient Services Advocate III,"ADVOCATE, HEALTHCARE",True,Registered Nurse (RN) - OR - Operating Room - $32-52 per hour - R107106,HEALTHCARE,False
+193,ENGINEERING,Senior System Engineer - Fully Cleared,"INFORMATION-TECHNOLOGY, ENGINEERING",True,Senior Engineering Manager,BUSINESS-DEVELOPMENT,False
+295,HEALTHCARE,Medicare Medical Billing Specialist,HEALTHCARE,True,Patient Account Representative,FINANCE,False
+368,CONSULTANT,Senior Technical Consultant,"INFORMATION-TECHNOLOGY, CONSULTANT",True,Consulting Engineer,"INFORMATION-TECHNOLOGY, ENGINEERING",False

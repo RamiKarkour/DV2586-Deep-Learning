@@ -1,0 +1,247 @@
+{
+    "INFORMATION-TECHNOLOGY": [
+        "information technology",
+        "it support",
+        "systems administrator",
+        "network administrator",
+        "software engineer",
+        "software developer",
+        "developer",
+        "programmer",
+        "technical support",
+        "help desk",
+        "system analyst",
+        "cloud",
+        "cybersecurity",
+        "security analyst"
+    ],
+    "BUSINESS-DEVELOPMENT": [
+        "business development",
+        "account executive",
+        "partnership",
+        "growth manager",
+        "sales development",
+        "business manager",
+        "client development",
+        "market development"
+    ],
+    "ADVOCATE": [
+        "advocate",
+        "legal advocate",
+        "case manager",
+        "community advocate",
+        "victim advocate",
+        "legal assistant",
+        "paralegal"
+    ],
+    "CHEF": [
+        "chef",
+        "cook",
+        "sous chef",
+        "kitchen manager",
+        "culinary",
+        "line cook",
+        "restaurant chef",
+        "food service"
+    ],
+    "ENGINEERING": [
+        "engineer",
+        "mechanical engineer",
+        "electrical engineer",
+        "civil engineer",
+        "manufacturing engineer",
+        "quality engineer",
+        "project engineer",
+        "field engineer"
+    ],
+    "ACCOUNTANT": [
+        "accountant",
+        "accounting",
+        "bookkeeper",
+        "accounts payable",
+        "accounts receivable",
+        "auditor",
+        "tax accountant",
+        "staff accountant"
+    ],
+    "FINANCE": [
+        "finance",
+        "financial analyst",
+        "financial advisor",
+        "controller",
+        "investment analyst",
+        "budget analyst",
+        "credit analyst",
+        "risk analyst"
+    ],
+    "FITNESS": [
+        "fitness",
+        "personal trainer",
+        "trainer",
+        "fitness instructor",
+        "coach",
+        "wellness coach",
+        "group exercise",
+        "athletic trainer"
+    ],
+    "AVIATION": [
+        "aviation",
+        "aircraft",
+        "pilot",
+        "flight attendant",
+        "aerospace",
+        "airline",
+        "air traffic",
+        "aircraft mechanic"
+    ],
+    "SALES": [
+        "sales",
+        "sales associate",
+        "sales representative",
+        "account manager",
+        "sales manager",
+        "retail sales",
+        "inside sales",
+        "outside sales"
+    ],
+    "BANKING": [
+        "bank",
+        "banking",
+        "teller",
+        "loan officer",
+        "mortgage",
+        "branch manager",
+        "relationship banker",
+        "credit"
+    ],
+    "HEALTHCARE": [
+        "healthcare",
+        "nurse",
+        "medical assistant",
+        "patient care",
+        "clinical",
+        "therapist",
+        "physician",
+        "health care",
+        "registered nurse",
+        "rn"
+    ],
+    "CONSULTANT": [
+        "consultant",
+        "business consultant",
+        "management consultant",
+        "strategy consultant",
+        "implementation consultant",
+        "solutions consultant",
+        "advisory"
+    ],
+    "CONSTRUCTION": [
+        "construction",
+        "carpenter",
+        "site manager",
+        "construction manager",
+        "superintendent",
+        "foreman",
+        "estimator",
+        "project superintendent"
+    ],
+    "PUBLIC-RELATIONS": [
+        "public relations",
+        "communications",
+        "media relations",
+        "pr specialist",
+        "communications manager",
+        "press",
+        "brand communications"
+    ],
+    "HR": [
+        "hr",
+        "human resources",
+        "recruiter",
+        "talent acquisition",
+        "hr specialist",
+        "hr manager",
+        "people operations",
+        "payroll",
+        "benefits coordinator"
+    ],
+    "DESIGNER": [
+        "designer",
+        "graphic designer",
+        "ux designer",
+        "ui designer",
+        "product designer",
+        "visual designer",
+        "creative designer",
+        "web designer"
+    ],
+    "ARTS": [
+        "artist",
+        "art",
+        "creative",
+        "illustrator",
+        "photographer",
+        "gallery",
+        "art director",
+        "fine arts"
+    ],
+    "TEACHER": [
+        "teacher",
+        "instructor",
+        "educator",
+        "tutor",
+        "teaching assistant",
+        "professor",
+        "school",
+        "preschool teacher"
+    ],
+    "APPAREL": [
+        "apparel",
+        "fashion",
+        "stylist",
+        "merchandiser",
+        "seamstress",
+        "tailor",
+        "clothing",
+        "fashion designer"
+    ],
+    "DIGITAL-MEDIA": [
+        "digital media",
+        "social media",
+        "content creator",
+        "content specialist",
+        "digital marketing",
+        "video editor",
+        "media specialist",
+        "multimedia"
+    ],
+    "AGRICULTURE": [
+        "agriculture",
+        "farm",
+        "farmer",
+        "agronomist",
+        "ranch",
+        "crop",
+        "livestock",
+        "agricultural"
+    ],
+    "AUTOMOBILE": [
+        "automotive",
+        "automobile",
+        "mechanic",
+        "auto technician",
+        "service technician",
+        "vehicle",
+        "diesel mechanic",
+        "automotive technician"
+    ],
+    "BPO": [
+        "bpo",
+        "call center",
+        "customer service",
+        "customer support",
+        "technical support",
+        "client support",
+        "support representative"
+    ]
+}
